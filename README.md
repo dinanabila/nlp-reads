@@ -1,1 +1,1 @@
-This repository contains NLP-related literatures I've read. 
+This repository contains NLP literatures I've read. 
